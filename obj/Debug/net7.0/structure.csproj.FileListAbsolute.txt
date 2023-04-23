@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\structure\bin\Debug\net7.0\structure.exe
+C:\Users\MONSTER\GitProject\structure\bin\Debug\net7.0\structure.deps.json
+C:\Users\MONSTER\GitProject\structure\bin\Debug\net7.0\structure.runtimeconfig.json
+C:\Users\MONSTER\GitProject\structure\bin\Debug\net7.0\structure.dll
+C:\Users\MONSTER\GitProject\structure\bin\Debug\net7.0\structure.pdb
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.dll
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\refint\structure.dll
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.pdb
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\structure.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\structure\obj\Debug\net7.0\ref\structure.dll
