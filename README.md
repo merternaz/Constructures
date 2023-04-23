@@ -1,2 +1,2 @@
-# Structures
+# Constructures
 # www.patika.dev
